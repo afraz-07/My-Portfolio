@@ -18,6 +18,8 @@
     background-size: cover;
     background-attachment: fixed;
     height: 100vh;
+
+    
     
 }
 
@@ -724,7 +726,6 @@ footer{
 
 @media(max-width:1300px) {
   .cardses{
-    float: right;
     width: 70%;
   }
 
@@ -744,5 +745,364 @@ footer{
  .social{
     width: 40%;
     margin-left: 0%;
+  }
+}
+
+
+@media(max-width:1250px) {
+  .addnum{
+    width: 75%;
+  }
+
+  .home {
+    background-image: url(/Responsive\ background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    
+    
+}
+}
+
+
+@media(max-width:1250px){
+  .home {
+    background-image: url(/Responsive\ background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    
+    
+}
+
+.para1{
+  margin-left: 9%;
+}
+
+.subheading h3{
+  margin-left: 25%;
+}
+
+.cardses{
+  width: 72%;
+}
+}
+
+
+@media(max-width:1150px){
+  .home {
+    background-image: url(/Responsive\ background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    
+    
+}
+
+.para1{
+  margin-left: 7%;
+}
+
+.subheading h3{
+  margin-left: 21%;
+}
+
+.skills .subheading h3{
+  margin-left: 28%;
+}
+
+.skills{
+  margin-left: 0%;
+}
+
+.cardses{
+  width: 73%;
+}
+
+.addnum{
+  width: 72%;
+}
+
+footer{
+  height: 51vh;
+}
+
+.foot{
+  height: 50vh;
+}
+}
+
+
+@media(max-width:1100px){
+  .addnum{
+    width: 65%;
+  }
+
+  .home {
+    background-image: url(/Responsive\ background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    
+    
+}
+
+.para1{
+  margin-left: 5%;
+}
+
+.subheading h3{
+  margin-left: 16%;
+}
+
+.skills .subheading h3{
+  margin-left: 28%;
+}
+
+.skills{
+  margin-left: 0%;
+}
+
+.cardses{
+  width: 74%;
+}
+}
+
+
+@media(max-width:1050px){
+
+  .home {
+    background-image: url(/Responsive\ background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    
+    
+}
+
+  .addnum{
+    width: 63%;
+  }
+
+  .cardses{
+    width: 75%;
+  }
+
+  
+.para1{
+  margin-left: 5%;
+}
+
+.knowme{
+  width: 56%;
+}
+
+div.menu-pane {
+  width: 20vw;
+}
+}
+
+
+@media(max-width:1000px){
+
+  .home {
+    background-image: url(/Responsive\ background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    
+    
+}
+  .addnum-social{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 2%;
+  }
+
+  .cardses{
+    width: 76%;
+  }
+
+  #aboutpart1{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.para1{
+  width: 100%;
+  margin-left: 12%;
+}
+
+.knowme{
+  width: 85%;
+  padding-top: 2%;
+}
+
+.about{
+  height: 130vh;
+}
+
+.subheading h3{
+  text-align: center;
+}
+
+.skills .subheading h3{
+  margin-left: -1%;
+}
+
+.icon{
+  padding-top: 2%;
+  display: flex;
+  gap: 13%;
+  justify-content: center;
+  text-align: center;
+  margin-left: 9%;
+}
+
+.skills{
+  padding-top: 0;
+}
+
+.para{
+  width: 80%;
+  margin-left: 10%;
+}
+
+.social{
+  width: 100%;
+}
+
+footer{
+  height: 70vh;
+}
+
+.foot{
+  height: 69vh;
+}
+
+.addnum{
+  width: 100%;
+  text-align: center;
+  padding-top: 2%;
+}
+
+.footadd{
+  width: 40%;
+  margin-left: 31%;
+}
+
+.social{
+  width: 50%;
+  margin-left: 33%;
+  padding-top: 5%;
+}
+
+
+.social a i{
+  color: white;
+  font-size: 25px;
+  margin: 18px;
+}
+
+.logo{
+  padding-top:15%;
+  
+}
+
+}
+
+@media(max-width:950px){
+  .cardses{
+    width: 78%;
+  }
+}
+
+@media(max-width:900px){
+  .cardses{
+    width: 79%;
+  }
+
+  .social{
+    margin-left: 31%;
+  }
+}
+
+@media(max-width:850px){
+  .cardses{
+    width: 81%;
+  }
+
+  .social{
+    margin-left: 30%;
+  }
+}
+
+
+@media(max-width:800px){
+
+  .cardses{
+    width: 83%;
+    padding-top: 5%;
+  }
+
+  .login-box {
+    width: 700px;
+  }
+
+  .dis{
+    font-size: 14px;
+  }
+
+  .logo{
+    padding-top:15%;
+    padding-bottom: 5%;
+    
+  }
+
+  div.menu-pane {
+    width: 25vw;
+  }
+
+  .hamburger-icon {
+    top: 4vh;
+    left: 4vw;
+  }
+  
+  .social{
+    margin-left: 28%;
+  }
+
+  .projects{
+    height: 180vh;
+  }
+
+  .about{
+    height: 125vh;
+  }
+
+  .name{
+    margin-left: 3%;
+  }
+
+  .name h1{
+    font-size: 30px;
+  }
+
+}
+
+
+@media(max-width:800px){
+  .cardses{
+    width: 86%;
+    padding-top: 5%;
+  }
+
+  .login-box {
+    width: 600px;
+  }
+
+  .social{
+    margin-left: 27%;
   }
 }
