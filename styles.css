@@ -729,13 +729,6 @@ footer{
     width: 70%;
   }
 
-  footer{
-    height: 61vh;
-  }
-
-  .foot{
-    height: 60vh;
-  }
 
   .addnum{
     width: 85%;
@@ -745,6 +738,22 @@ footer{
  .social{
     width: 40%;
     margin-left: 0%;
+  }
+
+  .about{
+    height:72vh ;
+  }
+  .projects{
+    height:152vh ;
+  }
+  .contact{
+    height:92vh ;
+  }
+  .foot{
+    height:41vh ;
+  }
+  footer{
+    height:42vh ;
   }
 }
 
@@ -866,6 +875,22 @@ footer{
 .cardses{
   width: 74%;
 }
+
+.about{
+  height:72vh ;
+}
+.projects{
+  height:152vh ;
+}
+.contact{
+  height:92vh ;
+}
+.foot{
+  height:41vh ;
+}
+footer{
+  height:42vh ;
+}
 }
 
 
@@ -939,9 +964,6 @@ div.menu-pane {
   padding-top: 2%;
 }
 
-.about{
-  height: 130vh;
-}
 
 .subheading h3{
   text-align: center;
@@ -973,13 +995,6 @@ div.menu-pane {
   width: 100%;
 }
 
-footer{
-  height: 70vh;
-}
-
-.foot{
-  height: 69vh;
-}
 
 .addnum{
   width: 100%;
@@ -1008,6 +1023,22 @@ footer{
 .logo{
   padding-top:15%;
   
+}
+
+.about{
+  height:107vh ;
+}
+.projects{
+  height:145vh ;
+}
+.contact{
+  height:92vh ;
+}
+.foot{
+  height:54vh ;
+}
+footer{
+  height:55vh ;
 }
 
 }
@@ -1073,14 +1104,6 @@ footer{
     margin-left: 28%;
   }
 
-  .projects{
-    height: 180vh;
-  }
-
-  .about{
-    height: 125vh;
-  }
-
   .name{
     margin-left: 3%;
   }
@@ -1089,6 +1112,22 @@ footer{
     font-size: 30px;
   }
 
+
+  .about{
+    height:98vh ;
+  }
+  .projects{
+    height:145vh ;
+  }
+  .contact{
+    height:92vh ;
+  }
+  .foot{
+    height:52vh ;
+  }
+  footer{
+    height:53vh ;
+  }
 }
 
 
@@ -1172,7 +1211,7 @@ footer{
   }
 
   .cardses{
-    width: 92%;
+    width: 89%;
   }
 
   
@@ -1213,6 +1252,23 @@ footer{
   .para1{
     font-size: medium;
   }
+  
+  .about{
+    height:87vh ;
+  }
+  .projects{
+    height:138vh ;
+  }
+  .contact{
+    height:92vh ;
+  }
+  .foot{
+    height:52vh ;
+  }
+  footer{
+    height:53vh ;
+  }
+
 
 }
 
@@ -1303,14 +1359,8 @@ footer{
   font-size: 12px;
 }
 
-.projects {
-   height: 140vh;
-}
 
 
-.about{
-  height: 117vh;
-}
 
 .MA h2{
   font-size: 15px;
@@ -1325,12 +1375,21 @@ footer{
 
 }
 
-.foot{
-  height: 60vh;
-}
 
+.about{
+  height:87vh ;
+}
+.projects{
+  height:112vh ;
+}
+.contact{
+  height:92vh ;
+}
+.foot{
+  height:52vh ;
+}
 footer{
-  height: 63vh;
+  height:53vh ;
 }
 }
 
@@ -1384,6 +1443,23 @@ footer{
   left: 0;
   color: #03e9f4;
   font-size: 10px;
+}
+
+
+.about{
+  height:92vh ;
+}
+.projects{
+  height:112vh ;
+}
+.contact{
+  height:92vh ;
+}
+.foot{
+  height:48vh ;
+}
+footer{
+  height:49vh ;
 }
 
 }
@@ -1477,14 +1553,28 @@ footer{
   margin-left: 7%;
 }
 
-.about {
-  height: 110vh;
-}
 
 .cardses{
   width: 96%;
   padding-left: 5%;
 }
+
+.about{
+  height:84vh ;
+}
+.projects{
+  height:107vh ;
+}
+.contact{
+  height:80vh ;
+}
+.foot{
+  height:46vh ;
+}
+footer{
+  height:47vh ;
+}
+
 
 
 }
@@ -1512,10 +1602,6 @@ footer{
     font-size: small;
   }
 
-  .about {
-    height: 92vh;
-}
-
 .product{
   top: 50%;left: 50%;
   transform: translate(0%,0%);
@@ -1530,9 +1616,6 @@ footer{
   
 }
 
-.projects {
-  height: 120vh;
-}
 
 .MA h2 {
   font-size: 13px;
@@ -1550,24 +1633,28 @@ footer{
   margin: -8px;
 }
 
-.foot{
-  height: 57vh;
+.about{
+  height:75vh ;
 }
-
-footer{
-  height: 58vh;
+.projects{
+  height:97vh ;
 }
-
 .contact{
-  height: 100vh;
+  height:77vh ;
 }
+.foot{
+  height:46vh ;
+}
+footer{
+  height:47vh ;
+}
+
+
 }
 
 
 @media(max-width:400px){
-  .about {
-    height: 98vh;
-}
+
 
 div.menu-pane {
   width: 60vw;
