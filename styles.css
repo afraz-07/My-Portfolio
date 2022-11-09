@@ -420,12 +420,11 @@ body{
         background: linear-gradient(rgba(3, 5, 2, 0.55),rgba(0,0,0,0.8)),url(/brick.jpg);
     }
 
-    .imagecontent{
-      position: relative;
-    }
+  
 
     .login-box {
-        position: relative;
+        /* position: relative; */
+        position:static;
         top: 50%;
         left: 50%;
         width: 800px;
