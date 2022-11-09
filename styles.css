@@ -421,7 +421,7 @@ body{
     }
 
     .imagecontent{
-      position: absolute  ;
+      position: relative;
     }
 
     .login-box {
