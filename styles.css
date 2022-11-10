@@ -24,7 +24,7 @@
 }
 
 
-/* .menu-container{
+.menu-container{
   font-family: 'Poppins', sans-serif;
 }
 
@@ -152,7 +152,7 @@ input.hamburger-checkbox {
   width: 10vw;
   opacity: 0;
   height: 6vh;
-} */
+}
 
 .logo{
     text-align: center;
@@ -414,14 +414,10 @@ body{
 
     /* =================Contact================= */
     .contact{
-        height: 190vh;
+        height: 290vh;
         width: 100%;
         background-attachment: fixed;
         background: linear-gradient(rgba(3, 5, 2, 0.55),rgba(0,0,0,0.8)),url(/brick.jpg);
-    }
-
-    .inn{
-      text-align: center;
     }
 
     .form-box{
