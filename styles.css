@@ -420,6 +420,10 @@ body{
         background: linear-gradient(rgba(3, 5, 2, 0.55),rgba(0,0,0,0.8)),url(/brick.jpg);
     }
 
+    .inn{
+      text-align: center;
+    }
+
     .form-box{
       padding-top: 5%;
       padding-bottom: 10%;
