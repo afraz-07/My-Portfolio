@@ -414,7 +414,7 @@ body{
 
     /* =================Contact================= */
     .contact{
-        height: 290vh;
+        height: 190vh;
         width: 100%;
         background-attachment: fixed;
         background: linear-gradient(rgba(3, 5, 2, 0.55),rgba(0,0,0,0.8)),url(/brick.jpg);
@@ -422,7 +422,7 @@ body{
 
     .form-box{
       padding-top: 5%;
-      padding-bottom: 70%;
+      padding-bottom: 10%;
     }
 
 
@@ -900,7 +900,7 @@ footer{
     height:152vh ;
   }
   .contact{
-    height:222vh ;
+    height:122vh ;
   }
   .foot{
     height:41vh ;
@@ -1036,7 +1036,7 @@ footer{
   height:152vh ;
 }
 .contact{
-  height:222vh ;
+  height:122vh ;
 }
 .foot{
   height:41vh ;
@@ -1185,7 +1185,7 @@ div.menu-pane {
   height:145vh ;
 }
 .contact{
-  height:222vh ;
+  height:122vh ;
 }
 .foot{
   height:54vh ;
@@ -1273,7 +1273,7 @@ footer{
     height:145vh ;
   }
   .contact{
-    height:222vh ;
+    height:122vh ;
   }
   .foot{
     height:52vh ;
@@ -1410,7 +1410,7 @@ footer{
     height:138vh ;
   }
   .contact{
-    height:225vh ;
+    height:125vh ;
   }
   .foot{
     height:52vh ;
@@ -1533,7 +1533,7 @@ footer{
   height:112vh ;
 }
 .contact{
-  height:222vh ;
+  height:122vh ;
 }
 .foot{
   height:52vh ;
@@ -1603,7 +1603,7 @@ footer{
   height:112vh ;
 }
 .contact{
-  height:222vh ;
+  height:122vh ;
 }
 .foot{
   height:48vh ;
@@ -1716,7 +1716,7 @@ footer{
   height:107vh ;
 }
 .contact{
-  height:222vh ;
+  height:122vh ;
 }
 .foot{
   height:46vh ;
@@ -1790,7 +1790,7 @@ footer{
   height:97vh ;
 }
 .contact{
-  height: 222vh ;
+  height: 122vh ;
 }
 .foot{
   height:46vh ;
